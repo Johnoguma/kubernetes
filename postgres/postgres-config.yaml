@@ -5,4 +5,4 @@ metadata:
   labels:
     app: postgres
 data:
-  POSTGRES_DB: ps_db
+  POSTGRES_DB: kyc_db
